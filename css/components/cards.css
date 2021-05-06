@@ -1,0 +1,18 @@
+.cards {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+
+.card {
+  width: 200px;
+  border-radius: 3px;
+  box-shadow: 0 0 15px rgb(0 0 0 / 20%);
+  padding: 20px;
+  text-align: center;
+  background: white;
+}
+
+.card img {
+  height: 100px;
+}
